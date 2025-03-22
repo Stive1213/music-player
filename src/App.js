@@ -1,10 +1,10 @@
 import { useRef, useState } from "react";
 import Player from "./components/PlayerSong";
 import Song from "./components/Song";
-import "./styles/app.css";
+import "./styles/app.scss";
 import data from "./data";
 import Library from "./components/Library";
-import Nav from "./components/Nav";
+import Nav from "./components/Navb";
 
 function App() {
   const [songs, setSongs] = useState(data());
