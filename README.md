@@ -7,6 +7,10 @@ A web-based music player application built with React, allowing users to play, p
 ## Preview
 The final output includes a sleek interface with a navigation bar, song display, player controls, and a library sidebar to manage your music collection.
 
+
+![Desktop View of Music Player](https://imgur.com/a/w0s9wOv)
+A full view of the music player with the library sidebar open.
+
 ## Prerequisites
 Before you begin, ensure you have the following installed:
 - **Node.js**: Required to run the React application.
